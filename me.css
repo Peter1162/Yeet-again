@@ -1,0 +1,22 @@
+.title{
+  border: solid;
+  text-align: center;
+  color: darkblue;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+body{
+ background-color: teal;
+}
+.peter{
+  margin-left: 8in;
+}
+.h2{
+  margin-left: 6in;
+  margin-right: 6in;
+}
+.le{
+  margin-left: 6in;
+}
+.run{
+  margin-left: 8in;
+}

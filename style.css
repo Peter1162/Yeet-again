@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  border: dashed ;
+  color: darkblue;
+  text-decoration: rgb(20, 207, 220) underline;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+body{
+  background-color: teal;
+}
+#port{
+  text-align: center;
+  color: darkblue;
+  font-family: 'Gloria Hallelujah', cursive;
+  
+}
+#me{
+  text-align: center;
+  color: darkblue;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+.home{
+
+margin-left: 8.5in;
+}
+
+.port{
+ 
+  margin-left: 8.5in;
+}
+.about{
+  margin-left: 8.5in;
+}
